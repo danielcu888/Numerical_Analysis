@@ -1,0 +1,6 @@
+REGULA FALSI...
+
+root = 2
+f(root) = 0
+steps taken = 1
+

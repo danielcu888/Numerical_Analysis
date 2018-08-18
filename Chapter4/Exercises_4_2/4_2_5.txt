@@ -1,0 +1,1118 @@
+BISECTION...
+steps = 1
+a = -5.000005e-01PI
+b = 5.000005e-01PI
+mp = 0.000000e+00PI
+residual = 0.000000e+00
+
+steps = 2
+a = -5.000005e-01PI
+b = 0.000000e+00PI
+mp = -2.500002e-01PI
+residual = -2.146026e-01
+
+steps = 3
+a = -5.000005e-01PI
+b = -2.500002e-01PI
+mp = -3.750004e-01PI
+residual = -1.236123e+00
+
+steps = 4
+a = -5.000005e-01PI
+b = -3.750004e-01PI
+mp = -4.375004e-01PI
+residual = -3.652927e+00
+
+steps = 5
+a = -5.000005e-01PI
+b = -4.375004e-01PI
+mp = -4.687505e-01PI
+residual = -8.680701e+00
+
+steps = 6
+a = -5.000005e-01PI
+b = -4.687505e-01PI
+mp = -4.843755e-01PI
+residual = -1.883439e+01
+
+steps = 7
+a = -5.000005e-01PI
+b = -4.843755e-01PI
+mp = -4.921880e-01PI
+residual = -3.919180e+01
+
+steps = 8
+a = -5.000005e-01PI
+b = -4.921880e-01PI
+mp = -4.960942e-01PI
+residual = -7.993507e+01
+
+steps = 9
+a = -5.000005e-01PI
+b = -4.960942e-01PI
+mp = -4.980474e-01PI
+residual = -1.614495e+02
+
+steps = 10
+a = -5.000005e-01PI
+b = -4.980474e-01PI
+mp = -4.990239e-01PI
+residual = -3.245472e+02
+
+
+steps = 11
+a = -5.000005e-01PI
+b = -4.990239e-01PI
+mp = -4.995122e-01PI
+residual = -6.509965e+02
+
+steps = 12
+a = -5.000005e-01PI
+b = -4.995122e-01PI
+mp = -4.997564e-01PI
+residual = -1.304902e+03
+
+steps = 13
+a = -5.000005e-01PI
+b = -4.997564e-01PI
+mp = -4.998784e-01PI
+residual = -2.616747e+03
+
+steps = 14
+a = -5.000005e-01PI
+b = -4.998784e-01PI
+mp = -4.999395e-01PI
+residual = -5.256695e+03
+
+steps = 15
+a = -5.000005e-01PI
+b = -4.999395e-01PI
+mp = -4.999700e-01PI
+residual = -1.060256e+04
+
+root = -4.999700e-01PI
+f(root) = -1.060256e+04
+
+steps = 1
+a = 4.999995e-01PI
+b = 1.500000e+00PI
+mp = 1.000000e+00PI
+residual = -3.141593e+00
+
+steps = 2
+a = 4.999995e-01PI
+b = 1.000000e+00PI
+mp = 7.499998e-01PI
+residual = -3.356195e+00
+
+steps = 3
+a = 4.999995e-01PI
+b = 7.499998e-01PI
+mp = 6.249996e-01PI
+residual = -4.377716e+00
+
+steps = 4
+a = 4.999995e-01PI
+b = 6.249996e-01PI
+mp = 5.624996e-01PI
+residual = -6.794520e+00
+
+steps = 5
+a = 4.999995e-01PI
+b = 5.624996e-01PI
+mp = 5.312495e-01PI
+residual = -1.182229e+01
+
+steps = 6
+a = 4.999995e-01PI
+b = 5.312495e-01PI
+mp = 5.156245e-01PI
+residual = -2.197598e+01
+
+steps = 7
+a = 4.999995e-01PI
+b = 5.156245e-01PI
+mp = 5.078120e-01PI
+residual = -4.233339e+01
+
+steps = 8
+a = 4.999995e-01PI
+b = 5.078120e-01PI
+mp = 5.039058e-01PI
+residual = -8.307666e+01
+
+steps = 9
+a = 4.999995e-01PI
+b = 5.039058e-01PI
+mp = 5.019526e-01PI
+residual = -1.645911e+02
+
+steps = 10
+a = 4.999995e-01PI
+b = 5.019526e-01PI
+mp = 5.009761e-01PI
+residual = -3.276888e+02
+
+steps = 11
+a = 4.999995e-01PI
+b = 5.009761e-01PI
+mp = 5.004878e-01PI
+residual = -6.541380e+02
+
+steps = 12
+a = 4.999995e-01PI
+b = 5.004878e-01PI
+mp = 5.002436e-01PI
+residual = -1.308043e+03
+
+steps = 13
+a = 4.999995e-01PI
+b = 5.002436e-01PI
+mp = 5.001216e-01PI
+residual = -2.619886e+03
+
+steps = 14
+a = 4.999995e-01PI
+b = 5.001216e-01PI
+mp = 5.000605e-01PI
+residual = -5.259825e+03
+
+steps = 15
+a = 4.999995e-01PI
+b = 5.000605e-01PI
+mp = 5.000300e-01PI
+residual = -1.060565e+04
+
+root = 5.000300e-01PI
+f(root) = -1.060565e+04
+
+steps = 1
+a = 1.500000e+00PI
+b = 2.500001e+00PI
+mp = 2.000000e+00PI
+residual = -6.283185e+00
+
+steps = 2
+a = 1.500000e+00PI
+b = 2.000000e+00PI
+mp = 1.750000e+00PI
+residual = -6.497788e+00
+
+steps = 3
+a = 1.500000e+00PI
+b = 1.750000e+00PI
+mp = 1.625000e+00PI
+residual = -7.519308e+00
+
+steps = 4
+a = 1.500000e+00PI
+b = 1.625000e+00PI
+mp = 1.562500e+00PI
+residual = -9.936113e+00
+
+steps = 5
+a = 1.500000e+00PI
+b = 1.562500e+00PI
+mp = 1.531250e+00PI
+residual = -1.496389e+01
+
+steps = 6
+a = 1.500000e+00PI
+b = 1.531250e+00PI
+mp = 1.515625e+00PI
+residual = -2.511757e+01
+
+steps = 7
+a = 1.500000e+00PI
+b = 1.515625e+00PI
+mp = 1.507812e+00PI
+residual = -4.547498e+01
+
+steps = 8
+a = 1.500000e+00PI
+b = 1.507812e+00PI
+mp = 1.503906e+00PI
+residual = -8.621825e+01
+
+steps = 9
+a = 1.500000e+00PI
+b = 1.503906e+00PI
+mp = 1.501953e+00PI
+residual = -1.677327e+02
+
+steps = 10
+a = 1.500000e+00PI
+b = 1.501953e+00PI
+mp = 1.500976e+00PI
+residual = -3.308303e+02
+
+steps = 11
+a = 1.500000e+00PI
+b = 1.500976e+00PI
+mp = 1.500488e+00PI
+residual = -6.572794e+02
+
+steps = 12
+a = 1.500000e+00PI
+b = 1.500488e+00PI
+mp = 1.500244e+00PI
+residual = -1.311183e+03
+
+steps = 13
+a = 1.500000e+00PI
+b = 1.500244e+00PI
+mp = 1.500122e+00PI
+residual = -2.623025e+03
+
+steps = 14
+a = 1.500000e+00PI
+b = 1.500122e+00PI
+mp = 1.500061e+00PI
+residual = -5.262955e+03
+
+steps = 15
+a = 1.500000e+00PI
+b = 1.500061e+00PI
+mp = 1.500030e+00PI
+residual = -1.060875e+04
+
+root = 1.500030e+00PI
+f(root) = -1.060875e+04
+
+steps = 1
+a = 2.499999e+00PI
+b = 3.500001e+00PI
+mp = 3.000000e+00PI
+residual = -9.424778e+00
+
+steps = 2
+a = 2.499999e+00PI
+b = 3.000000e+00PI
+mp = 2.750000e+00PI
+residual = -9.639381e+00
+
+steps = 3
+a = 2.499999e+00PI
+b = 2.750000e+00PI
+mp = 2.625000e+00PI
+residual = -1.066090e+01
+
+steps = 4
+a = 2.499999e+00PI
+b = 2.625000e+00PI
+mp = 2.562500e+00PI
+residual = -1.307771e+01
+
+steps = 5
+a = 2.499999e+00PI
+b = 2.562500e+00PI
+mp = 2.531250e+00PI
+residual = -1.810548e+01
+
+steps = 6
+a = 2.499999e+00PI
+b = 2.531250e+00PI
+mp = 2.515625e+00PI
+residual = -2.825917e+01
+
+steps = 7
+a = 2.499999e+00PI
+b = 2.515625e+00PI
+mp = 2.507812e+00PI
+residual = -4.861657e+01
+
+steps = 8
+a = 2.499999e+00PI
+b = 2.507812e+00PI
+mp = 2.503906e+00PI
+residual = -8.935984e+01
+
+steps = 9
+a = 2.499999e+00PI
+b = 2.503906e+00PI
+mp = 2.501953e+00PI
+residual = -1.708743e+02
+
+steps = 10
+a = 2.499999e+00PI
+b = 2.501953e+00PI
+mp = 2.500976e+00PI
+residual = -3.339719e+02
+
+steps = 11
+a = 2.499999e+00PI
+b = 2.500976e+00PI
+mp = 2.500488e+00PI
+residual = -6.604208e+02
+
+steps = 12
+a = 2.499999e+00PI
+b = 2.500488e+00PI
+mp = 2.500244e+00PI
+residual = -1.314324e+03
+
+steps = 13
+a = 2.499999e+00PI
+b = 2.500244e+00PI
+mp = 2.500122e+00PI
+residual = -2.626164e+03
+
+steps = 14
+a = 2.499999e+00PI
+b = 2.500122e+00PI
+mp = 2.500061e+00PI
+residual = -5.266085e+03
+
+steps = 15
+a = 2.499999e+00PI
+b = 2.500061e+00PI
+mp = 2.500030e+00PI
+residual = -1.061184e+04
+
+root = 2.500030e+00PI
+f(root) = -1.061184e+04
+
+steps = 1
+a = 3.499999e+00PI
+b = 4.500000e+00PI
+mp = 4.000000e+00PI
+residual = -1.256637e+01
+
+steps = 2
+a = 3.499999e+00PI
+b = 4.000000e+00PI
+mp = 3.750000e+00PI
+residual = -1.278097e+01
+
+steps = 3
+a = 3.499999e+00PI
+b = 3.750000e+00PI
+mp = 3.625000e+00PI
+residual = -1.380249e+01
+
+steps = 4
+a = 3.499999e+00PI
+b = 3.625000e+00PI
+mp = 3.562500e+00PI
+residual = -1.621930e+01
+
+steps = 5
+a = 3.499999e+00PI
+b = 3.562500e+00PI
+mp = 3.531250e+00PI
+residual = -2.124707e+01
+
+steps = 6
+a = 3.499999e+00PI
+b = 3.531250e+00PI
+mp = 3.515625e+00PI
+residual = -3.140076e+01
+
+steps = 7
+a = 3.499999e+00PI
+b = 3.515625e+00PI
+mp = 3.507812e+00PI
+residual = -5.175817e+01
+
+steps = 8
+a = 3.499999e+00PI
+b = 3.507812e+00PI
+mp = 3.503906e+00PI
+residual = -9.250143e+01
+
+steps = 9
+a = 3.499999e+00PI
+b = 3.503906e+00PI
+mp = 3.501953e+00PI
+residual = -1.740159e+02
+
+steps = 10
+a = 3.499999e+00PI
+b = 3.501953e+00PI
+mp = 3.500976e+00PI
+residual = -3.371134e+02
+
+steps = 11
+a = 3.499999e+00PI
+b = 3.500976e+00PI
+mp = 3.500488e+00PI
+residual = -6.635622e+02
+
+steps = 12
+a = 3.499999e+00PI
+b = 3.500488e+00PI
+mp = 3.500244e+00PI
+residual = -1.317465e+03
+
+steps = 13
+a = 3.499999e+00PI
+b = 3.500244e+00PI
+mp = 3.500122e+00PI
+residual = -2.629303e+03
+
+steps = 14
+a = 3.499999e+00PI
+b = 3.500122e+00PI
+mp = 3.500061e+00PI
+residual = -5.269216e+03
+
+steps = 15
+a = 3.499999e+00PI
+b = 3.500061e+00PI
+mp = 3.500030e+00PI
+residual = -1.061494e+04
+
+root = 3.500030e+00PI
+f(root) = -1.061494e+04
+
+steps = 1
+a = 4.500000e+00PI
+b = 5.500000e+00PI
+mp = 5.000000e+00PI
+residual = -1.570796e+01
+
+steps = 2
+a = 4.500000e+00PI
+b = 5.000000e+00PI
+mp = 4.750000e+00PI
+residual = -1.592257e+01
+
+steps = 3
+a = 4.500000e+00PI
+b = 4.750000e+00PI
+mp = 4.625000e+00PI
+residual = -1.694409e+01
+
+steps = 4
+a = 4.500000e+00PI
+b = 4.625000e+00PI
+mp = 4.562500e+00PI
+residual = -1.936089e+01
+
+steps = 5
+a = 4.500000e+00PI
+b = 4.562500e+00PI
+mp = 4.531250e+00PI
+residual = -2.438866e+01
+
+steps = 6
+a = 4.500000e+00PI
+b = 4.531250e+00PI
+mp = 4.515625e+00PI
+residual = -3.454235e+01
+
+steps = 7
+a = 4.500000e+00PI
+b = 4.515625e+00PI
+mp = 4.507812e+00PI
+residual = -5.489976e+01
+
+steps = 8
+a = 4.500000e+00PI
+b = 4.507812e+00PI
+mp = 4.503906e+00PI
+residual = -9.564302e+01
+
+steps = 9
+a = 4.500000e+00PI
+b = 4.503906e+00PI
+mp = 4.501953e+00PI
+residual = -1.771574e+02
+
+steps = 10
+a = 4.500000e+00PI
+b = 4.501953e+00PI
+mp = 4.500976e+00PI
+residual = -3.402550e+02
+
+steps = 11
+a = 4.500000e+00PI
+b = 4.500976e+00PI
+mp = 4.500488e+00PI
+residual = -6.667036e+02
+
+steps = 12
+a = 4.500000e+00PI
+b = 4.500488e+00PI
+mp = 4.500244e+00PI
+residual = -1.320606e+03
+
+steps = 13
+a = 4.500000e+00PI
+b = 4.500244e+00PI
+mp = 4.500122e+00PI
+residual = -2.632441e+03
+
+steps = 14
+a = 4.500000e+00PI
+b = 4.500122e+00PI
+mp = 4.500061e+00PI
+residual = -5.272346e+03
+
+steps = 15
+a = 4.500000e+00PI
+b = 4.500061e+00PI
+mp = 4.500030e+00PI
+residual = -1.061804e+04
+
+root = 4.500030e+00PI
+f(root) = -1.061804e+04
+
+steps = 1
+a = 5.500000e+00PI
+b = 6.500000e+00PI
+mp = 6.000000e+00PI
+residual = -1.884956e+01
+
+steps = 2
+a = 5.500000e+00PI
+b = 6.000000e+00PI
+mp = 5.750000e+00PI
+residual = -1.906416e+01
+
+steps = 3
+a = 5.500000e+00PI
+b = 5.750000e+00PI
+mp = 5.625000e+00PI
+residual = -2.008568e+01
+
+steps = 4
+a = 5.500000e+00PI
+b = 5.625000e+00PI
+mp = 5.562500e+00PI
+residual = -2.250248e+01
+
+steps = 5
+a = 5.500000e+00PI
+b = 5.562500e+00PI
+mp = 5.531250e+00PI
+residual = -2.753026e+01
+
+steps = 6
+a = 5.500000e+00PI
+b = 5.531250e+00PI
+mp = 5.515625e+00PI
+residual = -3.768394e+01
+
+steps = 7
+a = 5.500000e+00PI
+b = 5.515625e+00PI
+mp = 5.507812e+00PI
+residual = -5.804135e+01
+
+steps = 8
+a = 5.500000e+00PI
+b = 5.507812e+00PI
+mp = 5.503906e+00PI
+residual = -9.878461e+01
+
+steps = 9
+a = 5.500000e+00PI
+b = 5.503906e+00PI
+mp = 5.501953e+00PI
+residual = -1.802990e+02
+
+steps = 10
+a = 5.500000e+00PI
+b = 5.501953e+00PI
+mp = 5.500976e+00PI
+residual = -3.433965e+02
+
+steps = 11
+a = 5.500000e+00PI
+b = 5.500976e+00PI
+mp = 5.500488e+00PI
+residual = -6.698450e+02
+
+steps = 12
+a = 5.500000e+00PI
+b = 5.500488e+00PI
+mp = 5.500244e+00PI
+residual = -1.323747e+03
+
+steps = 13
+a = 5.500000e+00PI
+b = 5.500244e+00PI
+mp = 5.500122e+00PI
+residual = -2.635580e+03
+
+steps = 14
+a = 5.500000e+00PI
+b = 5.500122e+00PI
+mp = 5.500061e+00PI
+residual = -5.275476e+03
+
+steps = 15
+a = 5.500000e+00PI
+b = 5.500061e+00PI
+mp = 5.500030e+00PI
+residual = -1.062113e+04
+
+root = 5.500030e+00PI
+f(root) = -1.062113e+04
+
+steps = 1
+a = 6.500000e+00PI
+b = 7.500000e+00PI
+mp = 7.000000e+00PI
+residual = -2.199115e+01
+
+steps = 2
+a = 6.500000e+00PI
+b = 7.000000e+00PI
+mp = 6.750000e+00PI
+residual = -2.220575e+01
+
+steps = 3
+a = 6.500000e+00PI
+b = 6.750000e+00PI
+mp = 6.625000e+00PI
+residual = -2.322727e+01
+
+steps = 4
+a = 6.500000e+00PI
+b = 6.625000e+00PI
+mp = 6.562500e+00PI
+residual = -2.564408e+01
+
+steps = 5
+a = 6.500000e+00PI
+b = 6.562500e+00PI
+mp = 6.531250e+00PI
+residual = -3.067185e+01
+
+steps = 6
+a = 6.500000e+00PI
+b = 6.531250e+00PI
+mp = 6.515625e+00PI
+residual = -4.082554e+01
+
+steps = 7
+a = 6.500000e+00PI
+b = 6.515625e+00PI
+mp = 6.507812e+00PI
+residual = -6.118294e+01
+
+steps = 8
+a = 6.500000e+00PI
+b = 6.507812e+00PI
+mp = 6.503906e+00PI
+residual = -1.019262e+02
+
+steps = 9
+a = 6.500000e+00PI
+b = 6.503906e+00PI
+mp = 6.501953e+00PI
+residual = -1.834406e+02
+
+steps = 10
+a = 6.500000e+00PI
+b = 6.501953e+00PI
+mp = 6.500976e+00PI
+residual = -3.465381e+02
+
+steps = 11
+a = 6.500000e+00PI
+b = 6.500976e+00PI
+mp = 6.500488e+00PI
+residual = -6.729865e+02
+
+steps = 12
+a = 6.500000e+00PI
+b = 6.500488e+00PI
+mp = 6.500244e+00PI
+residual = -1.326888e+03
+
+steps = 13
+a = 6.500000e+00PI
+b = 6.500244e+00PI
+mp = 6.500122e+00PI
+residual = -2.638719e+03
+
+steps = 14
+a = 6.500000e+00PI
+b = 6.500122e+00PI
+mp = 6.500061e+00PI
+residual = -5.278606e+03
+
+steps = 15
+a = 6.500000e+00PI
+b = 6.500061e+00PI
+mp = 6.500030e+00PI
+residual = -1.062423e+04
+
+root = 6.500030e+00PI
+f(root) = -1.062423e+04
+
+steps = 1
+a = 7.500000e+00PI
+b = 8.500001e+00PI
+mp = 8.000000e+00PI
+residual = -2.513274e+01
+
+steps = 2
+a = 7.500000e+00PI
+b = 8.000000e+00PI
+mp = 7.750000e+00PI
+residual = -2.534734e+01
+
+steps = 3
+a = 7.500000e+00PI
+b = 7.750000e+00PI
+mp = 7.625000e+00PI
+residual = -2.636886e+01
+
+steps = 4
+a = 7.500000e+00PI
+b = 7.625000e+00PI
+mp = 7.562500e+00PI
+residual = -2.878567e+01
+
+steps = 5
+a = 7.500000e+00PI
+b = 7.562500e+00PI
+mp = 7.531250e+00PI
+residual = -3.381344e+01
+
+steps = 6
+a = 7.500000e+00PI
+b = 7.531250e+00PI
+mp = 7.515625e+00PI
+residual = -4.396713e+01
+
+steps = 7
+a = 7.500000e+00PI
+b = 7.515625e+00PI
+mp = 7.507812e+00PI
+residual = -6.432453e+01
+
+steps = 8
+a = 7.500000e+00PI
+b = 7.507812e+00PI
+mp = 7.503906e+00PI
+residual = -1.050678e+02
+
+steps = 9
+a = 7.500000e+00PI
+b = 7.503906e+00PI
+mp = 7.501953e+00PI
+residual = -1.865822e+02
+
+steps = 10
+a = 7.500000e+00PI
+b = 7.501953e+00PI
+mp = 7.500976e+00PI
+residual = -3.496796e+02
+
+steps = 11
+a = 7.500000e+00PI
+b = 7.500976e+00PI
+mp = 7.500488e+00PI
+residual = -6.761279e+02
+
+steps = 12
+a = 7.500000e+00PI
+b = 7.500488e+00PI
+mp = 7.500244e+00PI
+residual = -1.330029e+03
+
+steps = 13
+a = 7.500000e+00PI
+b = 7.500244e+00PI
+mp = 7.500122e+00PI
+residual = -2.641858e+03
+
+steps = 14
+a = 7.500000e+00PI
+b = 7.500122e+00PI
+mp = 7.500061e+00PI
+residual = -5.281737e+03
+
+steps = 15
+a = 7.500000e+00PI
+b = 7.500061e+00PI
+mp = 7.500030e+00PI
+residual = -1.062732e+04
+
+root = 7.500030e+00PI
+f(root) = -1.062732e+04
+
+steps = 1
+a = 8.499999e+00PI
+b = 9.500001e+00PI
+mp = 9.000000e+00PI
+residual = -2.827433e+01
+
+steps = 2
+a = 8.499999e+00PI
+b = 9.000000e+00PI
+mp = 8.750000e+00PI
+residual = -2.848894e+01
+
+steps = 3
+a = 8.499999e+00PI
+b = 8.750000e+00PI
+mp = 8.625000e+00PI
+residual = -2.951046e+01
+
+steps = 4
+a = 8.499999e+00PI
+b = 8.625000e+00PI
+mp = 8.562500e+00PI
+residual = -3.192726e+01
+
+steps = 5
+a = 8.499999e+00PI
+b = 8.562500e+00PI
+mp = 8.531250e+00PI
+residual = -3.695503e+01
+
+steps = 6
+a = 8.499999e+00PI
+b = 8.531250e+00PI
+mp = 8.515625e+00PI
+residual = -4.710872e+01
+
+steps = 7
+a = 8.499999e+00PI
+b = 8.515625e+00PI
+mp = 8.507812e+00PI
+residual = -6.746613e+01
+
+steps = 8
+a = 8.499999e+00PI
+b = 8.507812e+00PI
+mp = 8.503906e+00PI
+residual = -1.082094e+02
+
+steps = 9
+a = 8.499999e+00PI
+b = 8.503906e+00PI
+mp = 8.501953e+00PI
+residual = -1.897238e+02
+
+steps = 10
+a = 8.499999e+00PI
+b = 8.501953e+00PI
+mp = 8.500976e+00PI
+residual = -3.528212e+02
+
+steps = 11
+a = 8.499999e+00PI
+b = 8.500976e+00PI
+mp = 8.500488e+00PI
+residual = -6.792693e+02
+
+steps = 12
+a = 8.499999e+00PI
+b = 8.500488e+00PI
+mp = 8.500244e+00PI
+residual = -1.333170e+03
+
+steps = 13
+a = 8.499999e+00PI
+b = 8.500244e+00PI
+mp = 8.500122e+00PI
+residual = -2.644996e+03
+
+steps = 14
+a = 8.499999e+00PI
+b = 8.500122e+00PI
+mp = 8.500061e+00PI
+residual = -5.284867e+03
+
+steps = 15
+a = 8.499999e+00PI
+b = 8.500061e+00PI
+mp = 8.500030e+00PI
+residual = -1.063042e+04
+
+root = 8.500030e+00PI
+f(root) = -1.063042e+04
+
+steps = 1
+a = 9.499999e+00PI
+b = 1.050000e+01PI
+mp = 1.000000e+01PI
+residual = -3.141593e+01
+
+steps = 2
+a = 9.499999e+00PI
+b = 1.000000e+01PI
+mp = 9.750000e+00PI
+residual = -3.163053e+01
+
+steps = 3
+a = 9.499999e+00PI
+b = 9.750000e+00PI
+mp = 9.625000e+00PI
+residual = -3.265205e+01
+
+steps = 4
+a = 9.499999e+00PI
+b = 9.625000e+00PI
+mp = 9.562500e+00PI
+residual = -3.506885e+01
+
+steps = 5
+a = 9.499999e+00PI
+b = 9.562500e+00PI
+mp = 9.531250e+00PI
+residual = -4.009663e+01
+
+steps = 6
+a = 9.499999e+00PI
+b = 9.531250e+00PI
+mp = 9.515625e+00PI
+residual = -5.025031e+01
+
+steps = 7
+a = 9.499999e+00PI
+b = 9.515625e+00PI
+mp = 9.507812e+00PI
+residual = -7.060772e+01
+
+steps = 8
+a = 9.499999e+00PI
+b = 9.507812e+00PI
+mp = 9.503906e+00PI
+residual = -1.113510e+02
+
+steps = 9
+a = 9.499999e+00PI
+b = 9.503906e+00PI
+mp = 9.501953e+00PI
+residual = -1.928653e+02
+
+steps = 10
+a = 9.499999e+00PI
+b = 9.501953e+00PI
+mp = 9.500976e+00PI
+residual = -3.559627e+02
+
+steps = 11
+a = 9.499999e+00PI
+b = 9.500976e+00PI
+mp = 9.500488e+00PI
+residual = -6.824107e+02
+
+steps = 12
+a = 9.499999e+00PI
+b = 9.500488e+00PI
+mp = 9.500244e+00PI
+residual = -1.336311e+03
+
+steps = 13
+a = 9.499999e+00PI
+b = 9.500244e+00PI
+mp = 9.500122e+00PI
+residual = -2.648135e+03
+
+steps = 14
+a = 9.499999e+00PI
+b = 9.500122e+00PI
+mp = 9.500061e+00PI
+residual = -5.287997e+03
+
+steps = 15
+a = 9.499999e+00PI
+b = 9.500061e+00PI
+mp = 9.500030e+00PI
+residual = -1.063351e+04
+
+root = 9.500030e+00PI
+f(root) = -1.063351e+04
+
+steps = 1
+a = 1.050000e+01PI
+b = 1.150000e+01PI
+mp = 1.100000e+01PI
+residual = -3.455752e+01
+
+steps = 2
+a = 1.050000e+01PI
+b = 1.100000e+01PI
+mp = 1.075000e+01PI
+residual = -3.477212e+01
+
+steps = 3
+a = 1.050000e+01PI
+b = 1.075000e+01PI
+mp = 1.062500e+01PI
+residual = -3.579364e+01
+
+steps = 4
+a = 1.050000e+01PI
+b = 1.062500e+01PI
+mp = 1.056250e+01PI
+residual = -3.821045e+01
+
+steps = 5
+a = 1.050000e+01PI
+b = 1.056250e+01PI
+mp = 1.053125e+01PI
+residual = -4.323822e+01
+
+steps = 6
+a = 1.050000e+01PI
+b = 1.053125e+01PI
+mp = 1.051562e+01PI
+residual = -5.339191e+01
+
+steps = 7
+a = 1.050000e+01PI
+b = 1.051562e+01PI
+mp = 1.050781e+01PI
+residual = -7.374931e+01
+
+steps = 8
+a = 1.050000e+01PI
+b = 1.050781e+01PI
+mp = 1.050391e+01PI
+residual = -1.144926e+02
+
+steps = 9
+a = 1.050000e+01PI
+b = 1.050391e+01PI
+mp = 1.050195e+01PI
+residual = -1.960069e+02
+
+steps = 10
+a = 1.050000e+01PI
+b = 1.050195e+01PI
+mp = 1.050098e+01PI
+residual = -3.591043e+02
+
+steps = 11
+a = 1.050000e+01PI
+b = 1.050098e+01PI
+mp = 1.050049e+01PI
+residual = -6.855521e+02
+
+steps = 12
+a = 1.050000e+01PI
+b = 1.050049e+01PI
+mp = 1.050024e+01PI
+residual = -1.339452e+03
+
+steps = 13
+a = 1.050000e+01PI
+b = 1.050024e+01PI
+mp = 1.050012e+01PI
+residual = -2.651274e+03
+
+steps = 14
+a = 1.050000e+01PI
+b = 1.050012e+01PI
+mp = 1.050006e+01PI
+residual = -5.291127e+03
+
+steps = 15
+a = 1.050000e+01PI
+b = 1.050006e+01PI
+mp = 1.050003e+01PI
+residual = -1.063661e+04
+
+root = 1.050003e+01PI
+f(root) = -1.063661e+04
+

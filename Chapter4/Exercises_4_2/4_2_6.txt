@@ -1,0 +1,57 @@
+BISECTION...
+
+root = 0.000244141 PI/15
+f(root) = 0.000409061
+steps = 12
+
+root = 1.89038 PI/15
+f(root) = -0.00035752
+steps = 12
+
+root = 2.85767 PI/15
+f(root) = -0.000226333
+steps = 12
+
+root = 3.8396 PI/15
+f(root) = -1.19648e-05
+steps = 12
+
+root = 4.83325 PI/15
+f(root) = 0.00052183
+steps = 12
+
+root = 5.83569 PI/15
+f(root) = -0.000572492
+steps = 12
+
+root = 6.84448 PI/15
+f(root) = -0.000100029
+steps = 12
+
+root = 7.85718 PI/15
+f(root) = -0.000746748
+steps = 12
+
+root = 8.87329 PI/15
+f(root) = 0.00064679
+steps = 12
+
+root = 9.89185 PI/15
+f(root) = 0.000185259
+steps = 12
+
+root = 10.9119 PI/15
+f(root) = -0.000373912
+steps = 12
+
+root = 11.9329 PI/15
+f(root) = -0.000264237
+steps = 12
+
+root = 12.9548 PI/15
+f(root) = 0.000145455
+steps = 12
+
+root = 13.9773 PI/15
+f(root) = -7.99991e-05
+steps = 12

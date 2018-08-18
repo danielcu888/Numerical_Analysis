@@ -1,0 +1,6 @@
+Created an algorithm to determine the range I = [s-e,s+e] for each of the generating functions in problem 4.3.1 (to 0.01, based on max_steps = 1000). Iteration steps displayed by debug output.
+
+a) x_0 = 2.162	successful convergence: result = 2 in 232 steps, i.e e = 0.162 (3dp)
+b) not described by theorem 4.4
+c) not described by theorem 4.4
+d) x_0 = 2.162	successful convergence: result = 2 in 14 steps, i.e., e = 0.162 (3dp) 

@@ -1,0 +1,23 @@
+a) 	x^2 - 5x + 6 = 0
+	x^2 - 4x + 6 = x
+	=> g(x) = x^2 - 4x + 6
+
+b)	x^2 - 5x + 6 = 0;
+	x(x - 5 + 6/x) = 0
+	x(x - (5 - 6/x)) = 0
+	x = 5 - 6/x or x = 0  (which is not a solution since INF sums are undefined)
+	=> g(x) = 5 - 6/x
+
+c)	x^2 - 5x + 6 = 0;
+	x^2 = 5x - 6
+	x = 5x - 6 or x = -(5x - 6)
+	=> g(x) = 5x - 6
+
+d) 	x^2 - 5x + 6 = 0;
+	x^2 + 6 = 5x
+	(x^2 + 6)/5 = x
+	=> g(x) = (x^2 + 6)/5
+
+Roots of x^2 - 5x + 6 = 0 => x = 2 or 3.
+
+Can't be assed to repeat problem 2 for each of these generating functions, kids stuff.

@@ -1,0 +1,29 @@
+x_0 = 3.7
+	step = 1	x_0 = 3.700000e+00	x_1 = 1.472500e+00	e_step = 4.725000e-01	e_step/e_{step - 1} = 1.750000e-01
+	step = 2	x_0 = 1.472500e+00	x_1 = 8.195641e-01	e_step = -1.804359e-01	e_step/e_{step - 1} = -3.818750e-01
+	step = 3	x_0 = 8.195641e-01	x_1 = 1.098357e+00	e_step = 9.835725e-02	e_step/e_{step - 1} = -5.451090e-01
+	step = 4	x_0 = 1.098357e+00	x_1 = 9.532399e-01	e_step = -4.676009e-02	e_step/e_{step - 1} = -4.754107e-01
+	step = 5	x_0 = 9.532399e-01	x_1 = 1.023927e+00	e_step = 2.392667e-02	e_step/e_{step - 1} = -5.116900e-01
+	step = 6	x_0 = 1.023927e+00	x_1 = 9.881798e-01	e_step = -1.182021e-02	e_step/e_{step - 1} = -4.940183e-01
+	step = 7	x_0 = 9.881798e-01	x_1 = 1.005945e+00	e_step = 5.945036e-03	e_step/e_{step - 1} = -5.029551e-01
+	step = 8	x_0 = 1.005945e+00	x_1 = 9.970363e-01	e_step = -2.963682e-03	e_step/e_{step - 1} = -4.985137e-01
+	step = 9	x_0 = 9.970363e-01	x_1 = 1.001484e+00	e_step = 1.484037e-03	e_step/e_{step - 1} = -5.007409e-01
+	step = 10	x_0 = 1.001484e+00	x_1 = 9.992585e-01	e_step = -7.414679e-04	e_step/e_{step - 1} = -4.996290e-01
+solution did not converge. (because we limited ourselves to N = 10 steps).
+
+x_0 = 0.1
+	step = 1	x_0 = 1.000000e-01	x_1 = 1.652500e+00	e_step = 6.525000e-01	e_step/e_{step - 1} = -7.250000e-01
+	step = 2	x_0 = 1.652500e+00	x_1 = 7.801891e-01	e_step = -2.198109e-01	e_step/e_{step - 1} = -3.368750e-01
+	step = 3	x_0 = 7.801891e-01	x_1 = 1.121985e+00	e_step = 1.219847e-01	e_step/e_{step - 1} = -5.549527e-01
+	step = 4	x_0 = 1.121985e+00	x_1 = 9.427277e-01	e_step = -5.727227e-02	e_step/e_{step - 1} = -4.695038e-01
+	step = 5	x_0 = 9.427277e-01	x_1 = 1.029456e+00	e_step = 2.945617e-02	e_step/e_{step - 1} = -5.143181e-01
+	step = 6	x_0 = 1.029456e+00	x_1 = 9.854888e-01	e_step = -1.451117e-02	e_step/e_{step - 1} = -4.926360e-01
+	step = 7	x_0 = 9.854888e-01	x_1 = 1.007308e+00	e_step = 7.308227e-03	e_step/e_{step - 1} = -5.036278e-01
+	step = 8	x_0 = 1.007308e+00	x_1 = 9.963592e-01	e_step = -3.640761e-03	e_step/e_{step - 1} = -4.981729e-01
+	step = 9	x_0 = 9.963592e-01	x_1 = 1.001824e+00	e_step = 1.823694e-03	e_step/e_{step - 1} = -5.009102e-01
+	step = 10	x_0 = 1.001824e+00	x_1 = 9.990890e-01	e_step = -9.110156e-04	e_step/e_{step - 1} = -4.995441e-01
+solution did not converge.
+
+So we can see that for i > 2 e_step/e_{step - 1}~-0.5 = g'(1), which is what we expect for large i for this linearly converging fixed-point iteration towards x = 1.
+
+Both starting values are within the 0<x_0<4 theoretical convergence range.

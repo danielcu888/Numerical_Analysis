@@ -1,0 +1,4 @@
+NewtonBisection tested on f(x) = 1 - x^2;
+x_0 = -1.000000e-01,	f(x_0) = 9.900000e-01, x_1 = -5.050000e+00,	f(x_1) = -2.624010e+00,	bisect = 1
+x_0 = -1.000000e-01,	f(x_0) = 9.900000e-01, x_1 = -5.000000e-01,	f(x_1) = -2.624010e+00,	bisect = 1
+Solved to result = -1.000000e+00, in 1 steps

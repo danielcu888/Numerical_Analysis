@@ -1,0 +1,27 @@
+x_0 = 3.7
+	step = 1	x_0 = 3.700000e+00	x_0_aitken = 5.488064e-01	e_i_aitken/e_i = -1.671088e-01
+	step = 2	x_0 = 1.472500e+00	x_0_aitken = 1.014936e+00	e_i_aitken/e_i = 3.161142e-02
+	step = 3	x_0 = 8.195641e-01	x_0_aitken = 1.002918e+00	e_i_aitken/e_i = -1.617165e-02
+	step = 4	x_0 = 1.098357e+00	x_0_aitken = 1.000773e+00	e_i_aitken/e_i = 7.860948e-03
+	step = 5	x_0 = 9.532399e-01	x_0_aitken = 1.000186e+00	e_i_aitken/e_i = -3.972660e-03
+	step = 6	x_0 = 1.023927e+00	x_0_aitken = 1.000047e+00	e_i_aitken/e_i = 1.974019e-03
+	step = 7	x_0 = 9.881798e-01	x_0_aitken = 1.000012e+00	e_i_aitken/e_i = -9.898701e-04
+	step = 8	x_0 = 1.005945e+00	x_0_aitken = 1.000003e+00	e_i_aitken/e_i = 4.941926e-04
+	step = 9	x_0 = 9.970363e-01	x_0_aitken = 1.000001e+00	e_i_aitken/e_i = -2.472785e-04
+	step = 10	x_0 = 1.001484e+00	x_0_aitken = 1.000000e+00	e_i_aitken/e_i = 1.235933e-04
+solution did not converge.
+
+x_0 = 0.1
+	step = 1	x_0 = 1.000000e-01	x_0_aitken = 1.093998e+00	e_i_aitken/e_i = -1.044418e-01
+	step = 2	x_0 = 1.652500e+00	x_0_aitken = 1.025762e+00	e_i_aitken/e_i = 3.948243e-02
+	step = 3	x_0 = 7.801891e-01	x_0_aitken = 1.004397e+00	e_i_aitken/e_i = -2.000462e-02
+	step = 4	x_0 = 1.121985e+00	x_0_aitken = 1.001177e+00	e_i_aitken/e_i = 9.649452e-03
+	step = 5	x_0 = 9.427277e-01	x_0_aitken = 1.000280e+00	e_i_aitken/e_i = -4.886706e-03
+	step = 6	x_0 = 1.029456e+00	x_0_aitken = 1.000071e+00	e_i_aitken/e_i = 2.424567e-03
+	step = 7	x_0 = 9.854888e-01	x_0_aitken = 1.000018e+00	e_i_aitken/e_i = -1.216577e-03
+	step = 8	x_0 = 1.007308e+00	x_0_aitken = 1.000004e+00	e_i_aitken/e_i = 6.071646e-04
+	step = 9	x_0 = 9.963592e-01	x_0_aitken = 1.000001e+00	e_i_aitken/e_i = -3.038570e-04
+	step = 10	x_0 = 1.001824e+00	x_0_aitken = 1.000000e+00	e_i_aitken/e_i = 1.518590e-04
+solution did not converge.
+
+Clearly using the Aitken D^2 convergence increases the rate of convergence significantly and the relative residual errors tend rapidly to zero.

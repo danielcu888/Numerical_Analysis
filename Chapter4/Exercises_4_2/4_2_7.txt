@@ -1,0 +1,9 @@
+f(x) = sin(nx) - a*sin((n-1)x)
+f(x) has 2 roots in [0, pi/n], one at x = 0.
+f'(x) = n*cos(nx) - a*(n-1)*cos((n-1)*x)
+      = n*(1-a) + a at x = 0
+f'(0) = 8 for n = 15 and a = 0.5
+
+f(0) = 0, f(pi/n) = -a*sin(pi/n) ~ -a*pi/n < 0
+
+Hence f(0) = 0, f'(0) > 0 and f(pi/n) < 0, by IVT must have a 2nd root in [0,pi/n].

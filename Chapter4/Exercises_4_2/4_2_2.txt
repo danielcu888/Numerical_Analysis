@@ -1,0 +1,165 @@
+Actual roots are: 2.61803 and 0.38197
+
+BISECTION...
+steps = 1
+a = 0
+b = 1
+mp = 0.5
+residual = -0.25
+
+steps = 2
+a = 0
+b = 0.5
+mp = 0.25
+residual = 0.3125
+
+steps = 3
+a = 0.25
+b = 0.5
+mp = 0.375
+residual = 0.015625
+
+steps = 4
+a = 0.375
+b = 0.5
+mp = 0.4375
+residual = -0.121094
+
+steps = 5
+a = 0.375
+b = 0.4375
+mp = 0.40625
+residual = -0.0537109
+
+steps = 6
+a = 0.375
+b = 0.40625
+mp = 0.390625
+residual = -0.0192871
+
+root = 0.390625
+f(root) = -0.0192871
+
+REGULA FALSI...
+steps = 1
+a = 0
+b = 1
+p = 0.5
+residual = -0.25
+
+steps = 2
+a = 0
+b = 0.5
+p = 0.4
+residual = -0.04
+
+steps = 3
+a = 0
+b = 0.4
+p = 0.384615
+residual = -0.00591716
+
+steps = 4
+a = 0
+b = 0.384615
+p = 0.382353
+residual = -0.000865052
+
+steps = 5
+a = 0
+b = 0.382353
+p = 0.382022
+residual = -0.000126247
+
+steps = 6
+a = 0
+b = 0.382022
+p = 0.381974
+residual = -1.84199e-05
+
+root = 0.381974
+f(root) = -1.84199e-05
+
+RF does better.
+
+BISECTION...
+steps = 1
+a = 1
+b = 3
+mp = 2
+residual = -1
+
+steps = 2
+a = 2
+b = 3
+mp = 2.5
+residual = -0.25
+
+steps = 3
+a = 2.5
+b = 3
+mp = 2.75
+residual = 0.3125
+
+steps = 4
+a = 2.5
+b = 2.75
+mp = 2.625
+residual = 0.015625
+
+steps = 5
+a = 2.5
+b = 2.625
+mp = 2.5625
+residual = -0.121094
+
+steps = 6
+a = 2.5625
+b = 2.625
+mp = 2.59375
+residual = -0.0537109
+
+root = 2.59375
+f(root) = -0.0537109
+
+REGULA FALSI...
+steps = 1
+a = 1
+b = 3
+p = 2
+residual = -1
+
+steps = 2
+a = 2
+b = 3
+p = 2.5
+residual = -0.25
+
+steps = 3
+a = 2.5
+b = 3
+p = 2.6
+residual = -0.04
+
+steps = 4
+a = 2.6
+b = 3
+p = 2.61538
+residual = -0.00591716
+
+steps = 5
+a = 2.61538
+b = 3
+p = 2.61765
+residual = -0.000865052
+
+steps = 6
+a = 2.61765
+b = 3
+p = 2.61798
+residual = -0.000126247
+
+root = 2.61798
+f(root) = -0.000126247
+
+RF does better.

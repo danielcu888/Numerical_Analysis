@@ -1,6 +1,13 @@
-.*~
+*.*~
+
+.cproject
+.project
+.metadata
 
 .DS_Store
+
+*/**/Debug/
+*/**/Release/
 
 # Compiled Object files
 *.slo

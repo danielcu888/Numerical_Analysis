@@ -1,0 +1,179 @@
+BISECTION...
+i = 99
+steps = 1
+a = 99
+b = 100
+mp = 99.5
+residual = 794476
+
+steps = 2
+a = 99
+b = 99.5
+mp = 99.25
+residual = 296064
+
+steps = 3
+a = 99
+b = 99.25
+mp = 99.125
+residual = 49189.1
+
+steps = 4
+a = 99
+b = 99.125
+mp = 99.0625
+residual = -73667.6
+
+steps = 5
+a = 99.0625
+b = 99.125
+mp = 99.0938
+residual = -12287.6
+
+steps = 6
+a = 99.0938
+b = 99.125
+mp = 99.1094
+residual = 18438.7
+
+steps = 7
+a = 99.0938
+b = 99.1094
+mp = 99.1016
+residual = 3072.51
+
+steps = 8
+a = 99.0938
+b = 99.1016
+mp = 99.0977
+residual = -4608.31
+
+steps = 9
+a = 99.0977
+b = 99.1016
+mp = 99.0996
+residual = -768.089
+
+steps = 10
+a = 99.0996
+b = 99.1016
+mp = 99.1006
+residual = 1152.16
+
+steps = 11
+a = 99.0996
+b = 99.1006
+mp = 99.1001
+residual = 192.025
+
+steps = 12
+a = 99.0996
+b = 99.1001
+mp = 99.0999
+residual = -288.035
+
+steps = 13
+a = 99.0999
+b = 99.1001
+mp = 99.1
+residual = -48.006
+
+steps = 14
+a = 99.1
+b = 99.1001
+mp = 99.1
+residual = 72.0091
+
+root = 99.1
+f(root) = 72.0091
+
+BISECTION...
+i = -102
+steps = 1
+a = -102
+b = -101
+mp = -101.5
+residual = 826733
+
+steps = 2
+a = -101.5
+b = -101
+mp = -101.25
+residual = 308115
+
+steps = 3
+a = -101.25
+b = -101
+mp = -101.125
+residual = 51193.9
+
+steps = 4
+a = -101.125
+b = -101
+mp = -101.062
+residual = -76672
+
+steps = 5
+a = -101.125
+b = -101.062
+mp = -101.094
+residual = -12788.6
+
+steps = 6
+a = -101.125
+b = -101.094
+mp = -101.109
+residual = 19190.3
+
+steps = 7
+a = -101.109
+b = -101.094
+mp = -101.102
+residual = 3197.76
+
+steps = 8
+a = -101.102
+b = -101.094
+mp = -101.098
+residual = -4796.17
+
+steps = 9
+a = -101.102
+b = -101.098
+mp = -101.1
+residual = -799.401
+
+steps = 10
+a = -101.102
+b = -101.1
+mp = -101.101
+residual = 1199.13
+
+steps = 11
+a = -101.101
+b = -101.1
+mp = -101.1
+residual = 199.853
+
+steps = 12
+a = -101.1
+b = -101.1
+mp = -101.1
+residual = -299.777
+
+steps = 13
+a = -101.1
+b = -101.1
+mp = -101.1
+residual = -49.963
+
+steps = 14
+a = -101.1
+b = -101.1
+mp = -101.1
+residual = 74.9446
+
+root = -101.1
+f(root) = 74.9446
+
+f'(alpha)*10^-4 are O(100) hence, according to MVT, large f(alpha) when |s-alpha| < 10^-4.

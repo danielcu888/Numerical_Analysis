@@ -1,0 +1,242 @@
+f(x) = tan(x) - x
+
+REGULA FALSI...
+
+DELTA = 1e-4
+
+root = -0 PI
+f(root) = 0
+steps taken = 2
+
+root = 1.4303 PI
+f(root) = -9.99771e-05
+steps taken = 18323
+
+root = 2.45902 PI
+f(root) = -9.98952e-05
+steps taken = 11424
+
+root = 3.47089 PI
+f(root) = -9.98447e-05
+steps taken = 8467
+
+root = 4.47741 PI
+f(root) = -9.97843e-05
+steps taken = 6783
+
+root = 5.48154 PI
+f(root) = -9.98469e-05
+steps taken = 5684
+
+root = 6.48439 PI
+f(root) = -9.99687e-05
+steps taken = 4906
+
+root = 7.48647 PI
+f(root) = -9.98433e-05
+steps taken = 4325
+
+root = 8.48807 PI
+f(root) = -9.97481e-05
+steps taken = 3873
+
+root = 9.48933 PI
+f(root) = -9.99902e-05
+steps taken = 3510
+
+root = 10.4903 PI
+f(root) = -9.97882e-05
+steps taken = 3213
+
+root = 11.4912 PI
+f(root) = -9.99425e-05
+steps taken = 2964
+
+RF does really badly in comparison to bisection because a, b are initially near discontinuities and
+x1 is hence in a region where f'~0. Hence, little progress is made
+in subsequent steps. One expects that the modified RF will improve things
+massively since during convergence, one endpoint will always remain unchanged
+near one discontinuity. Use of larger DELTA requires more steps but reduces
+risk of f(x) = +/- inf being used in calculation.
+
+
+MODIFIED REGULA FALSI...
+
+DELTA = 1e-4
+
+root = -0 PI
+f(root) = 0
+steps taken = 2
+
+root = 1.4303 PI
+f(root) = 4.57771e-05
+steps taken = 4
+
+root = 2.45903 PI
+f(root) = 0.00022205
+steps taken = 3
+
+root = 3.47089 PI
+f(root) = 0.000207642
+steps taken = 4
+
+root = 4.47741 PI
+f(root) = 0.0025371
+steps taken = 3
+
+root = 5.48154 PI
+f(root) = 0.000842458
+steps taken = 3
+
+root = 6.48439 PI
+f(root) = 0.00688388
+steps taken = 3
+
+root = 7.48647 PI
+f(root) = 0.000221976
+steps taken = 4
+
+root = 8.48807 PI
+f(root) = 0.000380079
+steps taken = 4
+
+root = 9.48934 PI
+f(root) = 0.030835
+steps taken = 3
+
+root = 10.4903 PI
+f(root) = 0.000488253
+steps taken = 4
+
+root = 11.4912 PI
+f(root) = 0.00101889
+steps taken = 4
+
+much better than RF.
+
+
+
+
+
+f(x) = sin(15x) - 0.5sin(14x)
+
+All calls to bisection take 12 steps,
+with residuals < 10^-4
+
+REGULA FALSI...
+
+root = 1.89058 PI/15
+f(root) = 7.57873e-06
+steps taken = 4
+
+root = 2.85756 PI/15
+f(root) = 4.79567e-06
+steps taken = 4
+
+root = 3.8396 PI/15
+f(root) = -8.39031e-06
+steps taken = 5
+
+root = 4.83344 PI/15
+f(root) = 7.89733e-06
+steps taken = 5
+
+root = 5.83588 PI/15
+f(root) = -6.50798e-06
+steps taken = 5
+
+root = 6.84445 PI/15
+f(root) = 5.06453e-06
+steps taken = 4
+
+root = 7.85739 PI/15
+f(root) = -3.70472e-06
+steps taken = 4
+
+root = 8.87346 PI/15
+f(root) = 2.45496e-06
+steps taken = 4
+
+root = 9.8918 PI/15
+f(root) = -1.38979e-06
+steps taken = 4
+
+root = 10.9118 PI/15
+f(root) = 6.14528e-07
+steps taken = 4
+
+root = 11.9329 PI/15
+f(root) = -1.81029e-07
+steps taken = 4
+
+root = 12.9549 PI/15
+f(root) = -7.17535e-05
+steps taken = 4
+
+root = 13.9773 PI/15
+f(root) = 7.80453e-06
+steps taken = 4
+
+Hence RF clearly beats bisection. Not
+sure how MRF will work.
+
+MODIFIED REGULA FALSI...
+
+root = 0 PI/15
+f(root) = 0
+steps taken = 1
+
+root = 1.89057 PI/15
+f(root) = 1.3789e-07
+steps taken = 3
+
+root = 2.85757 PI/15
+f(root) = -2.81325e-05
+steps taken = 3
+
+root = 3.83962 PI/15
+f(root) = 3.77443e-05
+steps taken = 3
+
+root = 4.83346 PI/15
+f(root) = -3.60933e-05
+steps taken = 3
+
+root = 5.8359 PI/15
+f(root) = 3.13416e-05
+steps taken = 3
+
+root = 6.84446 PI/15
+f(root) = -2.60508e-05
+steps taken = 3
+
+root = 7.85739 PI/15
+f(root) = 2.07863e-05
+steps taken = 3
+
+root = 8.87346 PI/15
+f(root) = -1.56492e-05
+steps taken = 3
+
+root = 9.8918 PI/15
+f(root) = 1.07789e-05
+steps taken = 3
+
+root = 10.9118 PI/15
+f(root) = -6.46457e-06
+steps taken = 3
+
+root = 11.9329 PI/15
+f(root) = 3.08412e-06
+steps taken = 3
+
+root = 12.9549 PI/15
+f(root) = -9.47009e-07
+steps taken = 3
+
+root = 13.9773 PI/15
+f(root) = 8.64566e-08
+steps taken = 3
+
+So MRF is slightly better in terms of number
+of steps but may take a bit more time.
